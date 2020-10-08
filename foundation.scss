@@ -2,9 +2,9 @@
 @import "~foundation-sites/scss/foundation";
 
 // Global styles
-@include foundation-global-styles;
-@include foundation-forms;
-@include foundation-typography;
+// @include foundation-global-styles;
+// @include foundation-forms;
+// @include foundation-typography;
 
 // Grids (choose one)
 @include foundation-xy-grid-classes;
@@ -54,4 +54,4 @@
 // @include foundation-float-classes;
 @include foundation-flex-classes;
 @include foundation-visibility-classes;
-@include foundation-prototype-classes;
+// @include foundation-prototype-classes;
