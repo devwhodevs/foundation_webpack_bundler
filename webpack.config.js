@@ -18,7 +18,7 @@ module.exports = {
         new MiniCssExtractPlugin({
             // Options similar to the same options in webpackOptions.output
             // both options are optional
-            filename: "foundation_weberous.min.css"
+            filename: "custom_foundation.min.css"
         })
     ]
 };
