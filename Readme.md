@@ -41,4 +41,4 @@ $black: #0a0a0a;
 5. Bundle your package
 > `npm start`
 
-Get your buit file in `/dist/foundation_weberous.min.css`
+Get your buit file in `/dist/custom_foundation.min.css`
